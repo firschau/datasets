@@ -1,2 +1,2 @@
 # datasets
-📈 Repo to store public datasets for various purposes
+Storage for public Data Science and Machine Learning demo datasets.
